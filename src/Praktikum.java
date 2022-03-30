@@ -8,9 +8,9 @@ public class Praktikum {
         int year = scanner.nextInt();
 
         if (isLeapYear(year)) {
-                System.out.println("В " + year + " году День программиста отметим 12 сентября!");
+                System.out.println("В " + year + " году День программиста точно отметим 12 сентября!");
         } else {
-            System.out.println("В " + year + " году День программиста отметим 13 сентября!");
+            System.out.println("В " + year + " году День программиста точно отметим 13 сентября!");
         }
         }
 
